@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Vicky || Geez!
+# Hi there 👋 , I'm fikihfirmansyah || Geez!
 
 ### Tools:
 <p>
@@ -11,20 +11,20 @@
 
 ### Stats:
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=vckyou&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fikihfirmansyah&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 </p>
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=vckyou)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=fikihfirmansyah)
 
 </details>
 
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/vckyou?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
+![Metrics](https://metrics.lecoq.io/fikihfirmansyah?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
 </details>
 
